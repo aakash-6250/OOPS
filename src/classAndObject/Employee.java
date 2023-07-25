@@ -1,4 +1,4 @@
-package com.ClassAndObject;
+package classAndObject;
 
 public class Employee {
     private String EmployeeName;
